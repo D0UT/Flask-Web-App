@@ -1,6 +1,6 @@
 # Notes Web App
 
-## You can view the app here
+## Live Demo
 
 Go to https://D0UT.pythonanywhere.com
 
