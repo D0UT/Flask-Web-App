@@ -18,6 +18,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Viewing The App
+## You can view the app here
 
-Go to `http://127.0.0.1:5000`
+Go to `https://D0UT.pythonanywhere.com`
