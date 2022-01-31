@@ -20,4 +20,4 @@ python main.py
 
 ## You can view the app here
 
-Go to `https://D0UT.pythonanywhere.com`
+Go to https://D0UT.pythonanywhere.com
