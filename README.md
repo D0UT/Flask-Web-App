@@ -1,5 +1,10 @@
 # Flask Web App
 
+## You can view the app here
+
+Go to https://D0UT.pythonanywhere.com
+
+
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
@@ -17,7 +22,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## You can view the app here
-
-Go to https://D0UT.pythonanywhere.com
