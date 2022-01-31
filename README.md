@@ -1,4 +1,4 @@
-# Flask Web App
+# Notes Web App
 
 ## You can view the app here
 
