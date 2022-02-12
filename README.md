@@ -5,7 +5,7 @@
 Go to https://D0UT.pythonanywhere.com
 
 
-## Setup & Installtion
+## Setup & Installation
 
 Make sure you have the latest version of Python installed.
 
