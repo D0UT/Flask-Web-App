@@ -1,9 +1,5 @@
 # Notes Web App
 
-## Live Demo
-
-Go to https://D0UT.pythonanywhere.com
-
 
 ## Setup & Installation
 
